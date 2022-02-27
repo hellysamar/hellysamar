@@ -13,7 +13,7 @@ Começar aqui pelo início:
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hellysamar&layout=compact"/>
 </div>
 
-![Snake animation](https://github.com/hellysamar/hellysamar/blob/output/github-contribuition-grid-snake.svg)
+![Snake animation](https://github.com/hellysamar/hellysamar/blob/output/github-contribution-grid-snake.svg)
 
 
 <div class="badge-base LI-profile-badge" data-locale="pt_BR" data-size="large" data-theme="light" data-type="HORIZONTAL" data-vanity="hellysamar" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://br.linkedin.com/in/hellysamar?trk=profile-badge">Hellysamar Araújo Silva</a></div>
